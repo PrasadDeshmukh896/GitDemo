@@ -1,0 +1,28 @@
+Git >> Version control
+
+lets assume whatsapp with diffren Version
+
+v1
+v2
+v3
+v4 new
+
+>> why git?- it is distributed (on cloud)
+>>Collabration
+>> Tracking Changes
+>>Recovery
+
+ >> for 1st time need to configure guthub
+ git config --global user.name "PrasadDeshmukh896"
+ git config --global user.email "prasaddeshmukh896@gmail.com"
+
+ git config --global color.ui auto
+
+ >>Mandatory Comment
+ git init
+ git remote add origin https://github.com/PrasadDeshmukh896/GitDemo.git
+
+ >>Requests 
+ 1)Pull Request :- if you want git repo in your editor
+
+ git pull origin main
